@@ -1,8 +1,12 @@
 # CodeTech_IT_Solution_Tasks_1
-Company:CodeTech IT Solutions
+Company: CodeTech IT Solutions
+
 Name : Anjali Nagesh Karpe
+
 Intern ID : CTIS3699
-Domain : Python Programming
+
+Domain : Python
+
 Mentor : Neela Santhosh
 
 
