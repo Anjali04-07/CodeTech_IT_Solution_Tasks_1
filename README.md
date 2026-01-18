@@ -1,5 +1,5 @@
 # CodeTech_IT_Solution_Tasks_1
-Company: CodeTech IT Solutions
+Company Name : CodeTech IT Solutions
 
 Name : Anjali Nagesh Karpe
 
